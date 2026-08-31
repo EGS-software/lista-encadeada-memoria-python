@@ -1,0 +1,11 @@
+DECLARAÇÃO DE USO DE INTELIGÊNCIA ARTIFICIAL
+
+Ferramenta utilizada: Gemini (Google).
+
+Finalidade do uso: Auxílio no desenvolvimento, documentação e entendimento do código de uma Lista Simplesmente Encadeada em Python, focando em conceitos de gerenciamento de memória (Heap) e Garbage Collector. Também foi utilizado para a criação de um roteiro para a gravação do vídeo explicativo do trabalho.
+
+Etapas da atividade em que foi utilizada: Na elaboração dos comentários didáticos no código-fonte sobre alocação de memória e manipulação de ponteiros, na criação e análise dos cenários de testes do programa principal (inserção, busca e remoção em diferentes posições) e na interpretação das saídas do console.
+
+Procedimentos adotados para verificar as informações: O código-fonte gerado e estruturado foi executado e testado exaustivamente no terminal local (macOS). Foram validadas todas as operações lógicas, confirmando o correto funcionamento dos tratamentos de erros customizados (ex: tentativa de remoção em lista vazia) e a correta reatribuição de ponteiros durante a remoção de nós.
+
+Alterações realizadas pelo aluno/grupo: Execução prática dos testes no próprio ambiente, leitura analítica das saídas do terminal, adaptação do roteiro de apresentação para o formato do grupo, e a gravação do vídeo de defesa do trabalho demonstrando domínio prático sobre as listas encadeadas.
